@@ -1,1 +1,1 @@
-Em làm hai bài NC1 và NC4 <33
+Em đã làm hai bài NC1 và NC4 <33
