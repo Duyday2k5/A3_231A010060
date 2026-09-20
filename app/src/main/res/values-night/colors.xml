@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- NC1: Hỗ trợ Dark Mode -->
+<resources>
+    <color name="primary">#80BAFF</color> <!-- Xanh nhạt hơn để dễ nhìn trên nền tối -->
+    <color name="tertiary">#4DD0D0</color>
+    <color name="on_primary">#003366</color>
+    <color name="primary_container">#1A3D6B</color>
+    <color name="surface">#121212</color> <!-- Nền tối -->
+    <color name="surface_variant">#1E1E1E</color>
+    <color name="divider">#333333</color>
+    <color name="muted">#A0AAB2</color> <!-- Text phụ sáng hơn -->
+</resources>
